@@ -29,3 +29,6 @@ cuenta con un solo conjunto de datos, la practica mas comun es tomar una proporc
 ellos mayoritaria como conjunto de entrenamiento y el resto dejarlo como conjunto de prueba.
 Un paso importante aca, es identificar que criterios son importantes que el conjunto de prueba
 cumpla y separar los datos en base a eso.
+
+
+[Enunciado](https://github.com/user-attachments/files/21359920/metnum_tp2_1C2024.pdf)
