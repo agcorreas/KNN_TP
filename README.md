@@ -5,7 +5,9 @@ utilizar un conjunto de datos llamado Fashion Mnist [2] el cual consiste en imag
 clases de prendas de ropa (zapatillas, remeras, etc). Al mismo tiempo vamos a realizar un
 Analisis de Componentes Principales (PCA, por las siglas en ingles) sobre este conjunto de
 datos y observar si varıa la performance en el reconocimiento utilizando distinta cantidad de
-componentes. \n
+componentes.
+
+
 En este trabajo vamos a trabajar con datos de imagenes de 28 × 28 pixeles en escala de
 grises. Una forma sencilla de almacenar los datos es tomarlos como vectores fila de dimension
 28×28 = 784, es decir vectores xi ∈ R784. Suponiendo que contamos con N imagenes, entonces
@@ -17,6 +19,8 @@ elemento del conjunto de datos y genera una prediccion, en este caso un valor en
 que representa a una de las clases de prendas de ropa. Para armar este clasificador vamos a
 utilizar la tecnica de aprendizaje automatico de k-vecinos mas proximos (en ingles, k-nearest
 neighbors, KNN).
+
+
 Una de las principales caracterısticas de un sistema de aprendizaje automatico en base
 a datos, es poder optimizar un objetivo a partir de un conjunto de datos de entrenamiento
 y poder mantener la performance en datos no vistos durante el entrenamiento. Para evaluar
