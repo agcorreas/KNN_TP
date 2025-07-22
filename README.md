@@ -5,7 +5,7 @@ utilizar un conjunto de datos llamado Fashion Mnist [2] el cual consiste en imag
 clases de prendas de ropa (zapatillas, remeras, etc). Al mismo tiempo vamos a realizar un
 Analisis de Componentes Principales (PCA, por las siglas en ingles) sobre este conjunto de
 datos y observar si varıa la performance en el reconocimiento utilizando distinta cantidad de
-componentes.
+componentes. \n
 En este trabajo vamos a trabajar con datos de imagenes de 28 × 28 pixeles en escala de
 grises. Una forma sencilla de almacenar los datos es tomarlos como vectores fila de dimension
 28×28 = 784, es decir vectores xi ∈ R784. Suponiendo que contamos con N imagenes, entonces
